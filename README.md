@@ -1,9 +1,3 @@
-# Modulos
+# Módulo Open Cart
 
-Módulos disponíveis para integração com a Moeda Digital.
-
-Magento
-
-OpenCart
-
-WooCommerce
+Módulo de pagamento via Moeda Digital para Open Cart
